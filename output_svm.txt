@@ -1,0 +1,48 @@
+Accuracy for C=0.05, loss=hinge and grams=(1, 1): 0.8861759881091565
+Precision:  0.8892223575907051
+Recall:  0.9849149753154142
+F1 score:  0.9346256552269806
+Accuracy for C=0.05, loss=squared_hinge and grams=(1, 1): 0.897060822752114
+Precision:  0.9092820944213054
+Recall:  0.972408118486012
+F1 score:  0.9397862459443985
+Accuracy for C=0.5, loss=hinge and grams=(1, 1): 0.8989006407642042
+Precision:  0.9132528128777625
+Recall:  0.9697312122874383
+F1 score:  0.9406450033787918
+Accuracy for C=0.5, loss=squared_hinge and grams=(1, 1): 0.8986921884771201
+Precision:  0.917198781353032
+Recall:  0.9644322545255074
+F1 score:  0.9402226809416345
+Accuracy for C=1, loss=hinge and grams=(1, 1): 0.8994172399104562
+Precision:  0.9163649981275745
+Recall:  0.9664509051014811
+F1 score:  0.9407417690968699
+Accuracy for C=1, loss=squared_hinge and grams=(1, 1): 0.8976227376129494
+Precision:  0.9181976244841528
+Recall:  0.9617553483269337
+F1 score:  0.9394718792866941
+Accuracy for C=0.05, loss=hinge and grams=(1, 2): 0.8873179441166608
+Precision:  0.884995059336875
+Recall:  0.9925605688202247
+F1 score:  0.9356965901039053
+Accuracy for C=0.05, loss=squared_hinge and grams=(1, 2): 0.9117068617055022
+Precision:  0.9190383031301482
+Recall:  0.9793824613764045
+F1 score:  0.9482513173550909
+Accuracy for C=0.5, loss=hinge and grams=(1, 2): 0.919827437758866
+Precision:  0.9309098906623099
+Recall:  0.9753225948033708
+F1 score:  0.9525988640017147
+Accuracy for C=0.5, loss=squared_hinge and grams=(1, 2): 0.9209693937663703
+Precision:  0.9370161410057904
+Recall:  0.9694851650280899
+F1 score:  0.952974168149706
+Accuracy for C=1, loss=hinge and grams=(1, 2): 0.921313793197205
+Precision:  0.9364215696652763
+Recall:  0.9706372893258427
+F1 score:  0.9532224868266506
+Accuracy for C=1, loss=squared_hinge and grams=(1, 2): 0.9185676608934447
+Precision:  0.9383116536659801
+Recall:  0.96484375
+F1 score:  0.951392758413624

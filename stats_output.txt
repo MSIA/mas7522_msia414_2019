@@ -1,0 +1,7 @@
+Number of Documents: 551682
+Label Distribution: quality
+bad      96478
+good    455204
+Name: reviewText, dtype: int64
+Number of Labels: 2
+Mean Length of Review: 524.0644320459975

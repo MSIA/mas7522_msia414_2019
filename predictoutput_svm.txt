@@ -1,0 +1,8 @@
+Input: What the heck I hated this product. I cannot believe it even exists. terrible
+Output {"Review": "What the heck I hated this product. I cannot believe it even exists. terrible", "Quality": "good"}
+Input: This is a product hand crafted by Jesus, a beautiful thing that gave my life hope.
+Output {"Review": "This is a product hand crafted by Jesus, a beautiful thing that gave my life hope.", "Quality": "good"}
+Input: Everything in the world is made worse by this thing. I review it poorly.
+Output {"Review": "Everything in the world is made worse by this thing. I review it poorly.", "Quality": "good"}
+Input: A wonderful thing for every household. My daughter is obsessed. Happy times.
+Output {"Review": "A wonderful thing for every household. My daughter is obsessed. Happy times.", "Quality": "good"}
